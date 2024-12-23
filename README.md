@@ -17,5 +17,5 @@
 
 ## 🔗 Links
 
-- 📝 [Blog](https://blog.naver.com/hello_osy)
+- 📝 [Naver Blog](https://blog.naver.com/hello_osy)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sangyoung-oh-5a43a4300/)
