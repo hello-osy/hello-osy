@@ -11,7 +11,7 @@
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-osy&show_icons=true&theme=radical)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=hello-osy&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
